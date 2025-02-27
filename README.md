@@ -2,6 +2,8 @@
 
 This project is a **Neural Network implementation with visualization** using **Pygame** for the **MNIST handwritten digits dataset**. It provides a **real-time interactive visualization** of the neural network's layers, weights, activations, and predictions.
 
+Uploading neural_network_project.mp4…
+
 ---
 
 ## **📌 Features**
