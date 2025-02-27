@@ -2,7 +2,7 @@
 
 This project is a **Neural Network implementation with visualization** using **Pygame** for the **MNIST handwritten digits dataset**. It provides a **real-time interactive visualization** of the neural network's layers, weights, activations, and predictions.
 
-Uploading neural_network_project.mp4…
+https://github.com/user-attachments/assets/6b68427c-275e-4da3-98b3-fe09df892633
 
 ---
 
@@ -186,12 +186,6 @@ This project is licensed under the **MIT License** – feel free to modify and u
 
 ---
 
-## **📬 Contact**
-🔹 **GitHub**: [Your Profile](https://github.com/yourusername)  
-🔹 **Email**: yourname@example.com  
-🔹 **Contributions are welcome!** 😃  
-
----
 
 🔥 **If you like this project, don't forget to ⭐ the repo!** 🔥  
 🎉 Happy Coding! 🚀👨‍💻
